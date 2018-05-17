@@ -2,4 +2,4 @@
 def say_hello (name)
   "Hello #{name}!"
 end
-name = Maria
+name = "Maria"
